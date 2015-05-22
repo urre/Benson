@@ -1,6 +1,6 @@
 # Benson for iTerm.app
 
-![Screenshot](https://raw.github.com/urre/benson-iterm/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/urre/Benson/master/screenshot.png)
 
 Just a simple iTerm color scheme.
 
